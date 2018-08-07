@@ -1,0 +1,85 @@
+henge.txt
+Created Tue May 23 11:18:36 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Henge Docks
+
+
+Tethered Dock for MacBook Pro 2016
+  In addition to the port expansions available with the USB-C dock,
+  Tethered Dock with Thunderbolt 3 adds an additional Mini DisplayPort
+  and two Thunderbolt 3 connections at speeds of up to 40 Gbps
+  Thunderbolt 3
+  Identifiers:
+    MacBookPro13,1, MacBookPro13,2, MacBookPro13,3
+  Ports:
+  o TRRS Audio
+  o SD Card
+  o USB 3.0
+  o Gigabit Ethernet
+  o Power Supply
+  o Mini DisplayPort (x2)
+  o Thunderbolt 3 (x2)
+  Included in box:
+  o Tethered Docking Station
+  o 85 Watt Power Supply       <===
+  o Power Cable                <===
+  o User Guide
+  Weights & Dimensions:
+  o Product weight: 0.18kg/0.4 lb
+  o Shipping weight: 0.22kg/0.5 lb
+  o Product dimensions: 8.2 cm x 17 cm x 2.35 cm/3.22 in x 6.7 in x .93 in
+  price: Not available yet.
+  https://hengedocks.com/pages/tethered-docks
+
+Vertical Dock for MacBook Pro (2016)
+  In cart as:
+    Vertical Docking Station for the MacBook Pro - 15-inch / Yes
+  Sleek in its design and simple to use, the Vertical Dock opens
+  up essential space on a crowded desk while neatly managing the
+  flow of connections in and out of your MacBook.  Guided dockin
+  allows for a quick integration of your notebook with all of
+  your devices, while the sturdy metal construction firmly secures
+  your notebook in place.
+  price: $149   <=== Only pre-order for spring 2017  
+  https://hengedocks.com/pages/vertical-macbook-pro-2016
+
+Apple USB-C Digital AV Multiport Adapter   <=== HDMI Adapter
+  Has:
+    1x USB-C connector to attach to MacBook Pro
+    1x full-size HDMI port up to 1080p at 60Hz
+       or UHD (3840x2160) at 30Hz
+    1x Standard USB-A port
+    1x USB-C charging port
+  NOTE: Might want 6x of these for home/work use.
+  price: $65.00 (amazon prime - Jun 1, 2017)
+  https://www.amazon.com/Apple-USB-C-Digital-Multiport-Adapter/dp/B00VU2K10G/ref=sr_1_9?ie=UTF8&qid=1496338474&sr=8-9&keywords=thunderbolt+3+to+hdmi
+
+Thunderbolt 3 cable
+
+NOTE: The Tethered Dock for MacBook Pro 2016 comes with spare power
+      supply and power cable.
+
+
+Model Identifier
+================
+Model Identifier: MacBookPro13,3
+
+To get details:
+  click apple > About This Mac > System Report...
+
+
+Tue May 23 11:18:36 AKDT 2017
+=============================
+o Created account:
+First Name:    Raymond
+Last Name:     Marcil
+Email Address: marcilr@gmail.com
+Password:      the usual + M7
+
+
+Links
+=====
+Henge Docks
+https://hengedocks.com/
